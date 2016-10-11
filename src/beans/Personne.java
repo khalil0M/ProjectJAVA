@@ -2,6 +2,8 @@ package beans;
 
 public class Personne {
 
+	//class personne
+	
 	int num;
 	String nom;
 	String prenom;
