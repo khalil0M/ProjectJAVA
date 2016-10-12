@@ -3,6 +3,7 @@ package beans;
 public class Personne {
 
 	//class personne
+	//class personne 10
 	
 	int num;
 	String nom;
