@@ -8,9 +8,6 @@ public class Test {
 	String adress;
 	String societe;
 	
-	//class Client  
-	//class Client
-	
 	public int getId() {
 		return id;
 	}
